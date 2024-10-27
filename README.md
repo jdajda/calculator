@@ -1,4 +1,4 @@
-[![Pylint](https://github.com/jdajda/calculator/actions/workflows/pylint.yml/badge.svg)](https://github.com/jdajda/calculator/actions/workflows/pylint.yml)
+[![Pylint](https://github.com/jdajda/calculator/actions/workflows/pylint.yml/badge.svg)](https://github.com/jdajda/calculator/actions/workflows/pylint.yml) [![CodeQL Advanced](https://github.com/jdajda/calculator/actions/workflows/codeql.yml/badge.svg)](https://github.com/jdajda/calculator/actions/workflows/codeql.yml)
 
 # My Super Calculator
 
